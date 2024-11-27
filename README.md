@@ -1,4 +1,4 @@
-# Pattern Identification System Documentation
+# Pattern Identification & Classification Documentation
 
 
 ## Overview
