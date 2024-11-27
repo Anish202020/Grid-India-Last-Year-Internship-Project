@@ -1,4 +1,4 @@
-# Pattern Identification & Classification Documentation
+# Pattern Identification & Classification Model
 
 <img src="https://github.com/Anish202020/Grid-India-Last-Year-Internship-Project/blob/main/Materials/Transmission%20Fault%20Lines.png">
 
