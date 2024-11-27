@@ -1,5 +1,7 @@
 # Pattern Identification & Classification Documentation
 
+<img src="https://github.com/Anish202020/Grid-India-Last-Year-Internship-Project/blob/main/Materials/Transmission%20Fault%20Lines.png">
+
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
